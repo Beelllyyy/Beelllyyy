@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Beelllyyy
 - 👀 I’m interested in data analytics, business intelligence, web development.
-- 🌱 I’m currently learning React.
-- 📫 How to reach me mattiabianco@gmx.com
+- 🌱 Currently working as Data Analyst @Sky Italia.
+- 📫 How to reach me mattiabianco94@gmail.com
 
 <!---
 Beelllyyy/Beelllyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
